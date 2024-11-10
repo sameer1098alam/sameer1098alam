@@ -5,7 +5,7 @@ Motivated and detail-oriented Full Stack Developer with a strong foundation in w
 
 - 🌍  **Location**: India  
 - 📧  **Email**: [sameer1098alam@gmail.com](mailto:sameer1098alam@gmail.com)  
-- 🚀  **Current Project**: [Portfolio Website](http://portfolio-iota-pearl-75.vercel.app/)  
+- 🚀  **Current Project**: [Portfolio Website]([http://portfolio-iota-pearl-75.vercel.app](https://frontend-psi-nine-20.vercel.app/)  
 - 🧠  **Education**: Pursuing B.Tech in CSE  
 - 🤝  **Open to Collaboration**: Web Development, Cloud Computing  
 - ⚡  **Fun Fact**: Always ready for new learning challenges!  

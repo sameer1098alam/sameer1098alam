@@ -9,14 +9,16 @@ Software Engineer at CIB team, Standard Chartered GBS — specializing in backen
 
 🎓 B.Tech CSE, SRM University AP (2021–2025) | GPA: 8.24/10
 
-🚀 Portfolio
+🚀 Portfolio: https://sameer-alam-portfolio.vercel.app/
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/sameer-alam-7a3a59215/
 
-🐙 GitHub
+🐙 GitHub: https://www.github.com/sameer1098alam
+
+✍️ Medium: https://medium.com/@sameer1098alam
 
 Tech Stack
-Java Spring Boot Microservices REST APIs Apache Camel JUnit Maven Kubernetes Helm Azure DevOps CI/CD PostgreSQL Oracle MongoDB Python React
+Java · Spring Boot · Microservices · REST APIs · Apache Camel · JUnit · Maven · Kubernetes · Helm · Azure DevOps · CI/CD · PostgreSQL · Oracle · MongoDB · Python · React
 
 Experience
 
@@ -33,4 +35,7 @@ Bank Indonesia Fast Payment — ISO 20022 message processing (Apache Camel, Sola
 Fashion Recommender with AI Chatbot — Python + Gemini API
 
 Connect
-GitHub · LinkedIn · Medium
+GitHub: https://www.github.com/sameer1098alam
+LinkedIn: https://www.linkedin.com/in/sameer-alam-7a3a59215/
+Medium: https://medium.com/@sameer1098alam
+Portfolio: https://sameer-alam-portfolio.vercel.app/

@@ -11,6 +11,10 @@ Software Engineer at CIB team, Standard Chartered GBS — specializing in backen
 
 🚀 Portfolio
 
+💼 LinkedIn
+
+🐙 GitHub
+
 Tech Stack
 Java Spring Boot Microservices REST APIs Apache Camel JUnit Maven Kubernetes Helm Azure DevOps CI/CD PostgreSQL Oracle MongoDB Python React
 
